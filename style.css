@@ -54,6 +54,8 @@ font-family: 'Questrial', sans-serif;
 
 }
 
+/* portfolio page */
+
 .img1 {
 
     background-color:#fae8e9;
@@ -100,4 +102,11 @@ font-family: 'Questrial', sans-serif;
     font-weight: bold;
     font-size: 20px;
 
+}
+
+/* Nav bar */
+
+.sticky-top {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
 }
