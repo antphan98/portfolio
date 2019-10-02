@@ -18,6 +18,7 @@
 
 }
 
+
 .p1 {
     margin-top: 190px;
     font-family: 'Questrial', sans-serif;
@@ -50,5 +51,53 @@ padding: 30px 60px 30px 60px;
 font-family: 'Questrial', sans-serif;
 
 
+
+}
+
+.img1 {
+
+    background-color:#fae8e9;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    width: 200px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.img2 {
+
+    background-color:#fae8e9;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    width: 200px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.img3 {
+
+    background-color:#fae8e9;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    width: 200px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.img4 {
+
+    background-color:#fae8e9;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    width: 200px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
 
 }
