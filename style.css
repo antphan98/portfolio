@@ -22,3 +22,25 @@
     padding: 15px 15px 5px 15px;
 
 }
+
+.footer {
+float: bottom;
+background-color: #fae8e9;
+margin: 10px;
+text-align: center;
+
+
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
