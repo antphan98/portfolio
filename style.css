@@ -1,3 +1,6 @@
+
+/* about me page */
+
 .img {
     width: 300px;
     margin-top: 50px;
@@ -23,14 +26,7 @@
 
 }
 
-.footer {
-float: bottom;
-background-color: #fae8e9;
-margin: 10px;
-text-align: center;
-
-
-}
+/* sticky footer */
 
 html,
 body {
@@ -43,4 +39,16 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+}
+
+/* contact page */
+
+.contact {
+margin: 30px;
+background-color: #fae8e9;
+padding: 30px 60px 30px 60px;
+font-family: 'Questrial', sans-serif;
+
+
+
 }
